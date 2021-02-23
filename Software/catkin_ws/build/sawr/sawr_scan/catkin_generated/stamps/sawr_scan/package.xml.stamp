@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package>
+  <name>sawr_scan</name>
+  <version>1.0.0</version>
+  <description>Convert RealSense data into LaserScan data for Simple Wheeled Autonomous Robot (SAWR)</description>
+  <maintainer email="michael.mccool@intel.com">intel</maintainer>
+  <license>BSD-3</license>
+  <url type="website">https://01.org/sawr</url>
+  <author email="michael.mccool@intel.com">Michael McCool</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>realsense_camera</run_depend>
+  <run_depend>depthimage_to_laserscan</run_depend>
+</package>

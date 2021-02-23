@@ -1,0 +1,8 @@
+prefix=/home/team28/catkin_ws/devel
+
+Name: sawr_scan
+Description: Description of sawr_scan
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

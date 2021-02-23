@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+2541dedab1a7035b4cbe49b20475434c CMakeFiles/apriltag_python
+c42b59b67c3621d964ba6b23f92efb3d apriltag.cpython-36m-aarch64-linux-gnu.so
+fa6010099d9400bf6b1b9cf86ac04a15 apriltag_detect.docstring.h
+ad3168800dc85a8f210922fcee031bb2 apriltag_py_type.docstring.h
+d373d74aa2c07a7a3e98f4dd69a1b77e apriltag_pywrap.o

@@ -1,0 +1,2 @@
+apriltag_ros/apriltag_ros:navi:realsense-ros/occupancy:realsense-ros/realsense2_camera:realsense-ros/realsense2_description:timed_roslaunch
+-DCATKIN_DEVEL_PREFIX=/home/team28/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/team28/catkin_ws/install -G Unix Makefiles

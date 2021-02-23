@@ -1,0 +1,2 @@
+apriltag:apriltag_ros/apriltag_ros:realsense-ros/ddynamic_reconfigure:realsense-ros/occupancy:realsense-ros/realsense2_camera:timed_roslaunch
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/team28/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/team28/catkin_ws/install_isolated

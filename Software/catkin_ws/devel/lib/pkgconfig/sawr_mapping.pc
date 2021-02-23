@@ -1,0 +1,8 @@
+prefix=/home/team28/catkin_ws/devel
+
+Name: sawr_mapping
+Description: Description of sawr_mapping
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/team28/catkin_ws/install
+
+Name: sawr_base
+Description: Description of sawr_base
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
